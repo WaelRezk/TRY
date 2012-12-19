@@ -1,6 +1,6 @@
 class DdddController < ApplicationController
   def aa
-    sayeddddddd
+    wael
   end
 
   def ss
@@ -10,6 +10,7 @@ class DdddController < ApplicationController
   end
 
   def ff
+    ddfdd
   end
 end
 
