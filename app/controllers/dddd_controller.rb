@@ -1,5 +1,6 @@
 class DdddController < ApplicationController
   def aa
+    mdkjcdkjcm
   end
 
   def ss
@@ -11,3 +12,4 @@ class DdddController < ApplicationController
   def ff
   end
 end
+
